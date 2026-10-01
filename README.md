@@ -31,44 +31,59 @@ I'm also currently expanding my skills in **Python, React Native/Expo, Redis, qu
 
 ### Frontend
 
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
+### 📱 Mobile Development
 
-
-
-\
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square\&logo=expo\&logoColor=white)
 
 ### Backend & APIs
 
-
-
-
-
-\
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square\&logo=socketdotio\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
 
 ### Databases & Data
 
-### Architecture & Backend Concepts
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square\&logo=mongoose\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
 
-* RESTful API design
-* Authentication & authorization
-* JWT & role-based access control (RBAC)
-* Multi-tenant architecture
-* Real-time communication
-* WebSocket / Socket.IO architecture
-* Asynchronous processing & job queues
-* Event-driven workflows
-* Data modeling & database design
-* API integrations & third-party services
-* Error handling & validation
-* System design
+### Authentication & Architecture
+
+![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
+![RBAC](https://img.shields.io/badge/Role--Based_Access_Control-5C2D91?style=flat-square)
+![Multi--Tenant](https://img.shields.io/badge/Multi--Tenant_Architecture-6C63FF?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square\&logo=socketdotio\&logoColor=white)
+![Job Queues](https://img.shields.io/badge/Job_Queues-DC382D?style=flat-square\&logo=redis\&logoColor=white)
 
 ### Tools & Platforms
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square\&logo=cloudinary\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square\&logo=cursor\&logoColor=white)
 
+### Third-Party APIs & Services
 
-
-
-\
+![Twelve Data](https://img.shields.io/badge/Twelve_Data-1A73E8?style=flat-square)
+![NewsData.io](https://img.shields.io/badge/NewsData.io-FF6B35?style=flat-square)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square\&logo=leaflet\&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square\&logo=cloudinary\&logoColor=white)
 
 ---
 
